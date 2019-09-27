@@ -1,2 +1,5 @@
-# RolandRichard-Visualization
-Recreating a FiveThirtyEight Map with R
+# RolandRichard-visualization
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/jdblischak/workflowr
